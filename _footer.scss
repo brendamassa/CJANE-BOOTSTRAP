@@ -1,0 +1,13 @@
+footer{
+    font-family: 'Teko', sans-serif;
+    background-color: $titulo;
+    color: $lethover;
+    .bi{
+        color: $btn;
+        &:hover{
+            color: $lethover
+        } 
+    }
+    
+
+}
